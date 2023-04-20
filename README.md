@@ -31,7 +31,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://github.com/Faith-okereke/login-form.git](https://github.com/Faith-okereke/login-form.git)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://login-form-front.netlify.app/](https://login-form-front.netlify.app/)
 
 ## My process
 
